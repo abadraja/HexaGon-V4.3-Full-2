@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HexaGon/Favorit_ViewController.swift"
+            timestampString = "516821967.494238"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Favorit_ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HexaGon/Favorit_ViewController.swift"
+            timestampString = "516822402.647336"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "didReceiveMemoryWarning()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HexaGon/Favorit_ViewController.swift"
+            timestampString = "516822470.408713"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Favorit_ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HexaGon.Favorit_ViewController.__deallocating_deinit"
+                  moduleName = "HexaGon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbondare2/Desktop/HexaGon%20life%205/HexaGon/Favorit_ViewController.swift"
+                  timestampString = "516822470.41327"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HexaGon.Favorit_ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HexaGon.Favorit_ViewController"
+                  moduleName = "HexaGon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbondare2/Desktop/HexaGon%20life%205/HexaGon/Favorit_ViewController.swift"
+                  timestampString = "516822470.416645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HexaGon.Favorit_ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HexaGon.Favorit_ViewController"
+                  moduleName = "HexaGon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbondare2/Desktop/HexaGon%20life%205/HexaGon/Favorit_ViewController.swift"
+                  timestampString = "516822470.418397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HexaGon.Favorit_ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HexaGon.Favorit_ViewController&gt;"
+                  moduleName = "HexaGon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbondare2/Desktop/HexaGon%20life%205/HexaGon/Favorit_ViewController.swift"
+                  timestampString = "516822470.420027"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HexaGon.Favorit_ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HexaGon.Favorit_ViewController&gt;"
+                  moduleName = "HexaGon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbondare2/Desktop/HexaGon%20life%205/HexaGon/Favorit_ViewController.swift"
+                  timestampString = "516822470.421547"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HexaGon/Favorit_TableViewController.swift"
+            timestampString = "517763720.423181"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "back_favorit(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
